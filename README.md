@@ -15,6 +15,7 @@ Ace: 1 or 11 points (the player gets to choose)
 An Ace and a 10, Jack, Queen, or King equals 21 points and is known as a Blackjack.
 
 Rules:
+
 Using whatever betting materials they have on hand, each player wagers a certain amount of currency (before they even get their cards). 
 All players must submit their bets before the round officially start
 
