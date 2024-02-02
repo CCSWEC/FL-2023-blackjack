@@ -1,3 +1,5 @@
+https://prod.liveshare.vsengsaas.visualstudio.com/join?DBDB64FB56363EA654965F806E4165FC16A6
+
 **BlackJack**
 
 You are tasked with creating blackjack. allow up to 4 players per game and display how much money each player has. each player is given a $500 initial bet. if you do not know how blackjack is played, the rules are listed below:
